@@ -1,0 +1,21 @@
+{
+  "name": "mobi-documentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vuepress build .",
+    "dev": "vuepress dev .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^0.14.11",
+    "vuepress-theme-yuu": "^2.3.0"
+  },
+  "devDependencies": {
+    "v-dialogs": "^2.1.4"
+  }
+}
